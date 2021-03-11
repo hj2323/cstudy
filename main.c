@@ -3,7 +3,7 @@
 /* 여기서부터 main() 함수가 시작됨.
 
    작성자 : 최혜지 */
-int main(void) {
+int main1(void) {
   //C언어 표준 입출력 함수
   //printf()
   printf(TEXT);//f:formatted의 약자, 서식화된 출력을 지원한다는 의미
